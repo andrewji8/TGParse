@@ -2,7 +2,6 @@ trojan://0e81a9cd-d849-4101-8d64-574c283207de@172.67.204.84:2083?path=/websocket
 trojan://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:443?path=/VOkcnRNFk1Gfjd07ui73LZgwx8s&security=tls&alpn=h2&host=hidd2.afsharidempire.uk&fp=chrome&type=ws&sni=hidd2.afsharidempire.uk#(@VmessProtocol)برای+خرید+و+اتصال+دائمی+جوین+شو🇩🇪
 trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@jp.mjt001.com:443#🇺🇸US_184
 trojan://2FlAxyOy3ScaC5xNOSFeRqZgASj73CpIlCYTE8p4DaBD3Rn3zXe9Y80uaZwD6K@levuior.taiwanesefood.link:443#Relay_🇹🇼TW-🇹🇼TW_99
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?path=6b777a91&security=tls&host=jobscareerforstudent.com&type=ws&sni=jobscareerforstudent.com#@V2rayNG3
 trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@itjs.liangyuandiancloud.com:443#Relay_🇺🇸US-🇬🇧GB_181
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@tw01.trojanyyds.xyz:443#🇺🇸US_174
 trojan://EgAMtxAquaO78-IvTSWpnQ@new.whalekade.fun:2096?path=/book&security=tls&host=mrz.learnturkishspeech.fun&type=ws&sni=mrz.learnturkishspeech.fun#@NETMelliAnti
@@ -11,9 +10,6 @@ trojan://RmdXQRXg@183.232.139.22:4027?type=tcp&allowInsecure=1#hkaa0.shop|中国
 trojan://RmdXQRXg@223.113.54.154:20344?type=tcp&allowInsecure=1#hkaa0.shop|中国
 trojan://RmdXQRXg@223.113.54.154:23621?type=tcp&allowInsecure=1#hkaa0.shop|中国
 trojan://ac397198-6466-403f-987f-a86fc6fb153c@178.79.140.181:443?security=tls&headerType=none&type=tcp&sni=uk2-full.privateip.net#(@VmessProtocol)برای+خرید+و+اتصال+دائمی+جوین+شو🇩🇪
-trojan://auto@104.18.12.229:2053?Telegram=@NasaV2ray_org,@NasaV2ray_org,@NasaV2ray_org,@NasaV2ray_org,@NasaV2ray_org,@NasaV2ray_org&path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#t.me/NasaV2ray_org➠(CloudFlare)|🇨🇦|316781
-trojan://auto@104.18.12.229:2053?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#[🇨🇦]t.me/ConfigsHub
-trojan://auto@104.18.12.229:2053?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool
 trojan://auto@104.18.13.229:2053?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#Channel id: @ShadowProxy66
 trojan://auto@104.20.6.134:443?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#Channel id: @ShadowProxy66
 trojan://auto@162.159.128.233:8443?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#Channel id: @ShadowProxy66
@@ -28,28 +24,26 @@ trojan://fyy75RVvaT@libertyzone.xyz:443?security=tls&sni=libertyzone.xyz&fp=chro
 trojan://gkviEOYc@183.232.139.22:4027?security=tls&type=tcp&headerType=none#节点分享 @hkaa0
 trojan://sharevpn@mynode.work.gd:443?security=tls&headerType=none&type=tcp&sni=mynode.work.gd
 trojan://telegram-id-privatevpns@13.36.116.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.42.223.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.36.75.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.43.227.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk
+trojan://telegram-id-privatevpns@13.43.227.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.48.206.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.49.178.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.50.144.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.53.163.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.60.113.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#configkade👉@proxystore11
-trojan://telegram-id-privatevpns@15.188.227.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@16.170.114.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.188.227.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.170.189.237:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#🔘6@oneclickvpnkeys
 trojan://telegram-id-privatevpns@18.159.174.73:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#🔘3@oneclickvpnkeys
 trojan://telegram-id-privatevpns@18.168.211.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@18.168.212.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@18.196.78.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@18.202.119.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@3.122.17.59:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.120.123.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.125.184.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.68.168.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.9.236.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@34.241.238.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk
 trojan://telegram-id-privatevpns@34.241.238.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@34.252.50.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.158.183.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.186.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@51.44.35.78:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@52.47.61.82:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#🔘26@oneclickvpnkeys
-trojan://telegram-id-privatevpns@54.247.179.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
 trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&headerType=none&type=tcp&sni=google.com#Channel id: @ShadowProxy66
 trojan://wkmY1R4EcP@78.141.221.194:443/?type=tcp&security=tls&sni=z-v2-002750.kailib.com#@V2RayCactus
 trojan://ypDt8RkT7J@151.115.83.239:43118?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=egajz.phooeyunfold.com#🔵+MCI+2+|+@oxnet_ir
