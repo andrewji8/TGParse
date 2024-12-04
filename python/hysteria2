@@ -34,6 +34,7 @@ hysteria2://84854B66-8478-4B87-8C0D-CD1699426C41@sg2.ddns-link-b5.uk:3531?securi
 hysteria2://84854B66-8478-4B87-8C0D-CD1699426C41@sg3.ddns-link-b5.uk:5475?security=tls&insecure=0&sni=sg3.ddns-link-b5.uk#MCi-@V2ray_Alpha-05
 hysteria2://84854B66-8478-4B87-8C0D-CD1699426C41@sg3.ddns-link-b5.uk:5475?security=tls&insecure=0&sni=sg3.ddns-link-b5.uk#MCi-@V2ray_Raha-05
 hysteria2://8ea05545-2dc7-4487-8005-b7d581169945@shy35.zqjc.cloud:55215?security=tls&insecure=1&sni=shy35.zqjc.cloud#@V2RAY1_NG
+hysteria2://8ea05545-2dc7-4487-8005-b7d581169945@shy35.zqjc.cloud:55215?security=tls&insecure=1&sni=shy35.zqjc.cloud#@kingofilter
 hysteria2://8ea05545-2dc7-4487-8005-b7d581169945@shy35.zqjc.cloud:55215?security=tls&insecure=1&sni=shy35.zqjc.cloud#@meli_proxyy
 hysteria2://8ea05545-2dc7-4487-8005-b7d581169945@shy35.zqjc.cloud:55215?security=tls&insecure=1&sni=shy35.zqjc.cloud#IR-@V2ray_Alpha-01
 hysteria2://8ea05545-2dc7-4487-8005-b7d581169945@shy35.zqjc.cloud:55215?security=tls&insecure=1&sni=shy35.zqjc.cloud#IR-@V2ray_Raha-01
@@ -50,8 +51,6 @@ hysteria2://KevinZakarian@179.61.132.91:8443?security=tls&obfs=salamander&obfs-p
 hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#Wifi-MCi-@V2ray_Alpha-9
 hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#Wifi-MCi-@V2ray_Raha-9
 hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#🚀@proxy_shadosocks🚀
-hysteria2://StormXVPN@45.129.185.4:443?security=tls&obfs=salamander&obfs-password=MYGaMeOP&insecure=1&sni=fast.com#hys2+🇦🇲
-hysteria2://StormXVPN@93.127.222.197:443?security=tls&obfs=salamander&obfs-password=https://t.me/StormXVPN&insecure=1&sni=www.google.com#hys+🇩🇪
 hysteria2://a51c8701-ae69-4976-9b23-cafb8d12ef60@45.140.169.231:8080?security=tls&insecure=1&sni=www.bing.com#IR-@V2ray_Alpha-05
 hysteria2://a51c8701-ae69-4976-9b23-cafb8d12ef60@45.140.169.231:8080?security=tls&insecure=1&sni=www.bing.com#IR-@V2ray_Raha-05
 hysteria2://d45e4297-0e1c-4e61-86e3-a2d18d3c2a0e@us.legeth.cc:26873?security=tls&insecure=0&sni=us.legeth.cc#MCI-@V2ray_Alpha-6
