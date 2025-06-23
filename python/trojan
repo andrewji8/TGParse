@@ -2,16 +2,21 @@ trojan://-EleP1yiGc6SD72p-m8Brw@78.39.9.168:6161?mode=gun&security=tls&alpn=h2&f
 trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.159.251.33:443?security=tls&headerType=none&type=tcp&sni=eats-rigor-judge.stark-industries.solutions#@Selinc
 trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.159.251.33:443?security=tls&headerType=none&type=tcp&sni=eats-rigor-judge.stark-industries.solutions#@V2RAYNG_1378
 trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.85.39:443?security=tls&headerType=none&type=tcp&sni=wispy-crib-net.stark-industries.solutions#@Selinc
-trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@13.248.169.48:443?security=tls&sni=de.stablize.top&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:117.18ms
 trojan://2ad5f69a-0d8f-4e33-af04-6b82d0acc672@node11.starnode.online:8080?security=tls&headerType=none&type=tcp&sni=node5.servernode.store#@meli_proxyy
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#@Selinc
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#@V2RAYNG_1378
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#FNET00
-trojan://6593b778-e45e-4f94-b5ae-641d4b7b02ae@76.223.54.146:443?security=tls&sni=42.earths.team&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
+trojan://429ad146-8f43-4dd4-8fb3-cca3f3a30c63@54.95.9.58:20230?security=tls&sni=jp006.421421.xyz&allowInsecure=1#[🏁]t.me/ConfigsHub
+trojan://7ee633a0-0490-4607-9a88-4b7299dabecb@109.230.91.202:443?mode=gun&security=tls&authority=&type=grpc&serviceName=nl1.grtj.sulindac.top&sni=nl1.grtj.sulindac.top#[🇮🇷]t.me/ConfigsHub
+trojan://7ee633a0-0490-4607-9a88-4b7299dabecb@109.230.91.202:443?type=grpc&mode=gun&serviceName=nl1.grtj.sulindac.top&security=tls&sni=nl1.grtj.sulindac.top#Telegram:+@vmessorg++🏳🏳
+trojan://7ee633a0-0490-4607-9a88-4b7299dabecb@109.230.91.202:443?type=grpc&mode=gun&serviceName=nl1.grtj.sulindac.top&security=tls&sni=nl1.grtj.sulindac.top#[🇮🇷]t.me/ConfigsHub
 trojan://AOmMqv1BPu@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp&sni=wivip.dtsazino.com#WedbaZtel
+trojan://Aimer@108.165.152.239:8443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#[🇮🇳]t.me/ConfigsHub
+trojan://Aimer@108.165.152.239:8443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Jaipur (Goverdhan Colony)🅿️ping:8.93ms
+trojan://Aimer@206.238.236.252:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 trojan://S*vVs#PaV5p_RrjF@www.speedtest.net:443?path=/trTmbKG0sTe38mhfvv?ed=2560&security=tls&alpn=http/1.1&host=domain2025.dpdns.org&fp=chrome&type=ws&sni=domaIn2025.dPDnS.Org#@V2RAYNG_1378
-trojan://acaabcb-abac-abca-adcb-accbaacbcbab@127.0.0.1:8080?security=tls&type=tcp#👉🆔@v2ray_configs_pool📡🤷‍♀️®️🤷‍♀©️🤷‍♀🅿️ping:4.57ms
-trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#[🇮🇷]t.me/ConfigsHub
+trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#Channel id: @ShadowProxy66
+trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#WedBazTel
 trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?security=tls&sni=gr1.grtj.sulindac.top&fp=chrome&type=grpc&authority=&serviceName=gr1.grtj.sulindac.top&mode=gun#3-Iran @BlueShekan
 trojan://bpb-trojan@japan.com:443?path=/tr?ed=2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#🌈@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻تلگرام
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?path=/?ed=2560&PROT_TYPE=trojan&security=tls&host=vle.amclubsvip.dpdns.org&type=ws&sni=vle.amclubsvip.dpdns.org#@Selinc
@@ -21,6 +26,8 @@ trojan://e6a2e741-0fce-440b-910c-b81325e2263a@bats-paper-chump.stark-industries.
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@strut-brisk-scope.stark-industries.solutions:443?security=tls&headerType=none&type=tcp&sni=strut-brisk-scope.stark-industries.solutions#@AZARBAYJAB1
 trojan://ebhZ11qYng@51.195.254.75:8443?sni=uk-02.allhubb.info&type=tcp&host=uk-02.allhubb.info&allowInsecure=1#DALTON
 trojan://telegram-id-directvpn@13.38.159.113:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#telegram@ConfingV2RaayNG
+trojan://telegram-id-directvpn@16.170.107.28:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@15.188.46.25:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://ttfang@128.199.237.143:443/?type=ws&host=ttfang.fange.me&path=/&security=tls&sni=ttfang.fange.me#@meli_proxyy
 trojan://ttfang@128.199.237.143:443/?type=ws&host=ttfang.fange.me&path=/&security=tls&sni=ttfang.fange.me#Channel id: @ShadowProxy66🇸🇬
 trojan://zsu4Mq3A9J@51.195.254.75:8443?type=tcp&headerType=none&security=tls&sni=uk-02.allhubb.info#@AZARBAYJAB1
