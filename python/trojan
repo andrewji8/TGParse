@@ -23,9 +23,11 @@ trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?security=tls&sni=j
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@meli_proxyy
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#MCI-IR--@V2rayAlpha-20
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Join Sho:@IRAN_V2RAY1 🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🏴‍☠️@FreakConfig
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 2960 | Japan
 trojan://2274c52572e721086f8bd8f88984643c@160.16.196.59:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🏴‍☠️@FreakConfig
 trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🇯🇵JP-160.16.81.84-1171
+trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🏴‍☠️@FreakConfig
 trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&sni=www.nintendogames.net&fp=chrome&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 2976 | Japan
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#@V2rayNG3
 trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&headerType=none&type=tcp#@V2rayNG3
@@ -100,7 +102,6 @@ trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerT
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#All-@V2ray_Alpha--42
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=/aioproxybot/129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#@IRAN_V2RAY1
 trojan://fg20mtCFHy@ukcsz.southbyte.xyz:5705?security=tls&headerType=none&type=tcp#@meli_proxyy
-trojan://fg20mtCFHy@ukcsz.southbyte.xyz:5705?security=tls&headerType=none&type=tcp#t.me/entryNET/config=1848902266646282
 trojan://fg20mtCFHy@ukcsz.southbyte.xyz:5705?security=tls&headerType=none&type=tcp#🇬🇧@FreakConfig
 trojan://fg20mtCFHy@ukcsz.southbyte.xyz:5705?security=tls&headerType=none&type=tcp#🏴‍☠️@FreakConfig
 trojan://fi1DPGOQ0I34PYZfaYyTvQ@91.107.172.48:443?security=tls&headerType=none&type=tcp&sni=de.v2bazzar.ir#@IRAN_V2RAY1
