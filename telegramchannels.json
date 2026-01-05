@@ -66,9 +66,7 @@
     "hopev2ray",
     "ip_cf",
     "iran_v2ray1",
-    "javidnamaniran",
     "jkvpn",
-    "leecher56",
     "lightning6",
     "ln2ray",
     "m4dvpn",
@@ -127,7 +125,6 @@
     "v2ray_configs_pools",
     "v2ray_ng",
     "v2ray_spatial",
-    "v2ray_unit",
     "v2ray_vmess_free",
     "v2rayargon",
     "v2raybaaz",
@@ -148,6 +145,7 @@
     "vmess_ir",
     "vmess_iran",
     "vmessorg",
+    "vmessprotocol",
     "vpn_ioss",
     "vpn_mikey",
     "vpn_room",
@@ -159,7 +157,6 @@
     "vpnv2rayonline",
     "xiv2ray",
     "xpnteam",
-    "yamyamproxy",
     "zdyz2",
     "zibanabz"
 ]
